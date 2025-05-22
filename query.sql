@@ -1,1 +1,1 @@
-INSERT INTO cat_owners (cat_id, owner_id) VALUES (3, 3);
+SELECT * FROM cat_owners;
